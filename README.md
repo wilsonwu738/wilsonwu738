@@ -1,4 +1,17 @@
-### Hello World! Welcome to Wilson's page 👋
+<div id="header" align="center">
+<img src="https://whateverhappenedtox.com/wp-content/uploads/2020/03/Wilson.jpg" width="200"/>
+<div id="badges">
+<a href="https://www.linkedin.com/in/wilsonwu738/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge" width="80" height="25"/>
+  </a>
+  <a href="https://wilsonwu738.github.io/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://img.shields.io/badge/Portfolio-06a94D" alt="Portfolio Badge" width="80" height="25"/>
+  </a>
+</div>
+</div>
+
+---
+# Hello World! Welcome to Wilson's page 👋
 
 *Willlllsonnnnnn is not just the best supporting volleyball, but also a creative engineer*
 
